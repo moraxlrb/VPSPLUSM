@@ -1,6 +1,6 @@
 #!/bin/bash
 #====================================================
-#	@kiritosshxd
+#	@VPSPLUS71
 #====================================================
 _lvk=$(wget -qO- https://github.com/VPSPLUS71/SCRIPT/blob/master/Install/versao)
 IP=$(wget -qO- ipv4.icanhazip.com)
